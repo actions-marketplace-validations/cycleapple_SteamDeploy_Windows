@@ -1,15 +1,15 @@
 "appbuild"
 {
-	"appid"	""
+	"appid" ""
 	"desc" "" 
 	"buildoutput" "..\output\" 
-	"contentroot" "..\content\" 
+	"contentroot" "" 
 	"setlive" ""
 	"preview" "0" 
 	"local"	""	
 	
 	"depots"
 	{
-		"100002" "depot_build_script.vdf"
+		"" "depot_build_script.vdf"
 	}
 }
